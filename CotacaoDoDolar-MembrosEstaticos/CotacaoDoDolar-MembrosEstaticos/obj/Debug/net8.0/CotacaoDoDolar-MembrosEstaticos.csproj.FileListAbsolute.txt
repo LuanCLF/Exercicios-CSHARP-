@@ -1,0 +1,14 @@
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\CotacaoDoDolar-MembrosEstaticos\CotacaoDoDolar-MembrosEstaticos\bin\Debug\net8.0\CotacaoDoDolar-MembrosEstaticos.exe
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\CotacaoDoDolar-MembrosEstaticos\CotacaoDoDolar-MembrosEstaticos\bin\Debug\net8.0\CotacaoDoDolar-MembrosEstaticos.deps.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\CotacaoDoDolar-MembrosEstaticos\CotacaoDoDolar-MembrosEstaticos\bin\Debug\net8.0\CotacaoDoDolar-MembrosEstaticos.runtimeconfig.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\CotacaoDoDolar-MembrosEstaticos\CotacaoDoDolar-MembrosEstaticos\bin\Debug\net8.0\CotacaoDoDolar-MembrosEstaticos.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\CotacaoDoDolar-MembrosEstaticos\CotacaoDoDolar-MembrosEstaticos\bin\Debug\net8.0\CotacaoDoDolar-MembrosEstaticos.pdb
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\CotacaoDoDolar-MembrosEstaticos\CotacaoDoDolar-MembrosEstaticos\obj\Debug\net8.0\CotacaoDoDolar-MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\CotacaoDoDolar-MembrosEstaticos\CotacaoDoDolar-MembrosEstaticos\obj\Debug\net8.0\CotacaoDoDolar-MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\CotacaoDoDolar-MembrosEstaticos\CotacaoDoDolar-MembrosEstaticos\obj\Debug\net8.0\CotacaoDoDolar-MembrosEstaticos.AssemblyInfo.cs
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\CotacaoDoDolar-MembrosEstaticos\CotacaoDoDolar-MembrosEstaticos\obj\Debug\net8.0\CotacaoDoDolar-MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\CotacaoDoDolar-MembrosEstaticos\CotacaoDoDolar-MembrosEstaticos\obj\Debug\net8.0\CotacaoDoDolar-MembrosEstaticos.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\CotacaoDoDolar-MembrosEstaticos\CotacaoDoDolar-MembrosEstaticos\obj\Debug\net8.0\refint\CotacaoDoDolar-MembrosEstaticos.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\CotacaoDoDolar-MembrosEstaticos\CotacaoDoDolar-MembrosEstaticos\obj\Debug\net8.0\CotacaoDoDolar-MembrosEstaticos.pdb
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\CotacaoDoDolar-MembrosEstaticos\CotacaoDoDolar-MembrosEstaticos\obj\Debug\net8.0\CotacaoDoDolar-MembrosEstaticos.genruntimeconfig.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\CotacaoDoDolar-MembrosEstaticos\CotacaoDoDolar-MembrosEstaticos\obj\Debug\net8.0\ref\CotacaoDoDolar-MembrosEstaticos.dll
