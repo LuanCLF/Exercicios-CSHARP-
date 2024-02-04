@@ -1,0 +1,15 @@
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Banco-AutoProperties&Encapsulamento\Banco-AutoProperties&Encapsulamento\bin\Debug\net8.0\Banco-AutoProperties&Encapsulamento.exe
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Banco-AutoProperties&Encapsulamento\Banco-AutoProperties&Encapsulamento\bin\Debug\net8.0\Banco-AutoProperties&Encapsulamento.deps.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Banco-AutoProperties&Encapsulamento\Banco-AutoProperties&Encapsulamento\bin\Debug\net8.0\Banco-AutoProperties&Encapsulamento.runtimeconfig.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Banco-AutoProperties&Encapsulamento\Banco-AutoProperties&Encapsulamento\bin\Debug\net8.0\Banco-AutoProperties&Encapsulamento.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Banco-AutoProperties&Encapsulamento\Banco-AutoProperties&Encapsulamento\bin\Debug\net8.0\Banco-AutoProperties&Encapsulamento.pdb
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Banco-AutoProperties&Encapsulamento\Banco-AutoProperties&Encapsulamento\obj\Debug\net8.0\Banco-AutoProperties&Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Banco-AutoProperties&Encapsulamento\Banco-AutoProperties&Encapsulamento\obj\Debug\net8.0\Banco-AutoProperties&Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Banco-AutoProperties&Encapsulamento\Banco-AutoProperties&Encapsulamento\obj\Debug\net8.0\Banco-AutoProperties&Encapsulamento.AssemblyInfo.cs
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Banco-AutoProperties&Encapsulamento\Banco-AutoProperties&Encapsulamento\obj\Debug\net8.0\Banco-AutoProperties&Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Banco-AutoProperties&Encapsulamento\Banco-AutoProperties&Encapsulamento\obj\Debug\net8.0\Banco-AutoProperties&Encapsulamento.sourcelink.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Banco-AutoProperties&Encapsulamento\Banco-AutoProperties&Encapsulamento\obj\Debug\net8.0\Banco-AutoProperties&Encapsulamento.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Banco-AutoProperties&Encapsulamento\Banco-AutoProperties&Encapsulamento\obj\Debug\net8.0\refint\Banco-AutoProperties&Encapsulamento.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Banco-AutoProperties&Encapsulamento\Banco-AutoProperties&Encapsulamento\obj\Debug\net8.0\Banco-AutoProperties&Encapsulamento.pdb
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Banco-AutoProperties&Encapsulamento\Banco-AutoProperties&Encapsulamento\obj\Debug\net8.0\Banco-AutoProperties&Encapsulamento.genruntimeconfig.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Banco-AutoProperties&Encapsulamento\Banco-AutoProperties&Encapsulamento\obj\Debug\net8.0\ref\Banco-AutoProperties&Encapsulamento.dll

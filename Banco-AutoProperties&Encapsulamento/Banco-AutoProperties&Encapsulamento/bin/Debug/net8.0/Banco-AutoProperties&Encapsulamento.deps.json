@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Banco-AutoProperties&Encapsulamento/1.0.0": {
+        "runtime": {
+          "Banco-AutoProperties&Encapsulamento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Banco-AutoProperties&Encapsulamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
