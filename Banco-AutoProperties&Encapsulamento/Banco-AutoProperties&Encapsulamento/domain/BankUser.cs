@@ -10,13 +10,13 @@ public class BankUser
     public string Name { get; private set; } = null!;
     public double Balance { get; private set; }
 
-    public BankUser(string Number, string name)
+    public BankUser(string number, string name)
     {
-        Number = Number;
+        Number = number;
         Name = name;
     }
 
-    public BankUser(string Number, string name, double balance) : this(Number, name)
+    public BankUser(string number, string name, double balance) : this(number, name)
     {
 
         Deposit(balance);
@@ -50,6 +50,3 @@ public class BankUser
 
 }
 
-
-
-}
