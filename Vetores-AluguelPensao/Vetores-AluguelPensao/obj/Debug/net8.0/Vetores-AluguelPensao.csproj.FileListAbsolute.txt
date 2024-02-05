@@ -1,0 +1,15 @@
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Vetores-AluguelPensao\Vetores-AluguelPensao\bin\Debug\net8.0\Vetores-AluguelPensao.exe
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Vetores-AluguelPensao\Vetores-AluguelPensao\bin\Debug\net8.0\Vetores-AluguelPensao.deps.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Vetores-AluguelPensao\Vetores-AluguelPensao\bin\Debug\net8.0\Vetores-AluguelPensao.runtimeconfig.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Vetores-AluguelPensao\Vetores-AluguelPensao\bin\Debug\net8.0\Vetores-AluguelPensao.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Vetores-AluguelPensao\Vetores-AluguelPensao\bin\Debug\net8.0\Vetores-AluguelPensao.pdb
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Vetores-AluguelPensao\Vetores-AluguelPensao\obj\Debug\net8.0\Vetores-AluguelPensao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Vetores-AluguelPensao\Vetores-AluguelPensao\obj\Debug\net8.0\Vetores-AluguelPensao.AssemblyInfoInputs.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Vetores-AluguelPensao\Vetores-AluguelPensao\obj\Debug\net8.0\Vetores-AluguelPensao.AssemblyInfo.cs
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Vetores-AluguelPensao\Vetores-AluguelPensao\obj\Debug\net8.0\Vetores-AluguelPensao.csproj.CoreCompileInputs.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Vetores-AluguelPensao\Vetores-AluguelPensao\obj\Debug\net8.0\Vetores-AluguelPensao.sourcelink.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Vetores-AluguelPensao\Vetores-AluguelPensao\obj\Debug\net8.0\Vetores-AluguelPensao.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Vetores-AluguelPensao\Vetores-AluguelPensao\obj\Debug\net8.0\refint\Vetores-AluguelPensao.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Vetores-AluguelPensao\Vetores-AluguelPensao\obj\Debug\net8.0\Vetores-AluguelPensao.pdb
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Vetores-AluguelPensao\Vetores-AluguelPensao\obj\Debug\net8.0\Vetores-AluguelPensao.genruntimeconfig.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Vetores-AluguelPensao\Vetores-AluguelPensao\obj\Debug\net8.0\ref\Vetores-AluguelPensao.dll
