@@ -1,0 +1,15 @@
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Listas-InserirEditar\Listas-InserirEditar\bin\Debug\net8.0\Listas-InserirEditar.exe
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Listas-InserirEditar\Listas-InserirEditar\bin\Debug\net8.0\Listas-InserirEditar.deps.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Listas-InserirEditar\Listas-InserirEditar\bin\Debug\net8.0\Listas-InserirEditar.runtimeconfig.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Listas-InserirEditar\Listas-InserirEditar\bin\Debug\net8.0\Listas-InserirEditar.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Listas-InserirEditar\Listas-InserirEditar\bin\Debug\net8.0\Listas-InserirEditar.pdb
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Listas-InserirEditar\Listas-InserirEditar\obj\Debug\net8.0\Listas-InserirEditar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Listas-InserirEditar\Listas-InserirEditar\obj\Debug\net8.0\Listas-InserirEditar.AssemblyInfoInputs.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Listas-InserirEditar\Listas-InserirEditar\obj\Debug\net8.0\Listas-InserirEditar.AssemblyInfo.cs
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Listas-InserirEditar\Listas-InserirEditar\obj\Debug\net8.0\Listas-InserirEditar.csproj.CoreCompileInputs.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Listas-InserirEditar\Listas-InserirEditar\obj\Debug\net8.0\Listas-InserirEditar.sourcelink.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Listas-InserirEditar\Listas-InserirEditar\obj\Debug\net8.0\Listas-InserirEditar.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Listas-InserirEditar\Listas-InserirEditar\obj\Debug\net8.0\refint\Listas-InserirEditar.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Listas-InserirEditar\Listas-InserirEditar\obj\Debug\net8.0\Listas-InserirEditar.pdb
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Listas-InserirEditar\Listas-InserirEditar\obj\Debug\net8.0\Listas-InserirEditar.genruntimeconfig.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Listas-InserirEditar\Listas-InserirEditar\obj\Debug\net8.0\ref\Listas-InserirEditar.dll
