@@ -1,0 +1,15 @@
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-DiagonalNegativos\Matriz-DiagonalNegativos\bin\Debug\net8.0\Matriz-DiagonalNegativos.exe
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-DiagonalNegativos\Matriz-DiagonalNegativos\bin\Debug\net8.0\Matriz-DiagonalNegativos.deps.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-DiagonalNegativos\Matriz-DiagonalNegativos\bin\Debug\net8.0\Matriz-DiagonalNegativos.runtimeconfig.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-DiagonalNegativos\Matriz-DiagonalNegativos\bin\Debug\net8.0\Matriz-DiagonalNegativos.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-DiagonalNegativos\Matriz-DiagonalNegativos\bin\Debug\net8.0\Matriz-DiagonalNegativos.pdb
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-DiagonalNegativos\Matriz-DiagonalNegativos\obj\Debug\net8.0\Matriz-DiagonalNegativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-DiagonalNegativos\Matriz-DiagonalNegativos\obj\Debug\net8.0\Matriz-DiagonalNegativos.AssemblyInfoInputs.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-DiagonalNegativos\Matriz-DiagonalNegativos\obj\Debug\net8.0\Matriz-DiagonalNegativos.AssemblyInfo.cs
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-DiagonalNegativos\Matriz-DiagonalNegativos\obj\Debug\net8.0\Matriz-DiagonalNegativos.csproj.CoreCompileInputs.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-DiagonalNegativos\Matriz-DiagonalNegativos\obj\Debug\net8.0\Matriz-DiagonalNegativos.sourcelink.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-DiagonalNegativos\Matriz-DiagonalNegativos\obj\Debug\net8.0\Matriz-DiagonalNegativos.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-DiagonalNegativos\Matriz-DiagonalNegativos\obj\Debug\net8.0\refint\Matriz-DiagonalNegativos.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-DiagonalNegativos\Matriz-DiagonalNegativos\obj\Debug\net8.0\Matriz-DiagonalNegativos.pdb
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-DiagonalNegativos\Matriz-DiagonalNegativos\obj\Debug\net8.0\Matriz-DiagonalNegativos.genruntimeconfig.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-DiagonalNegativos\Matriz-DiagonalNegativos\obj\Debug\net8.0\ref\Matriz-DiagonalNegativos.dll
