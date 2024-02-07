@@ -1,0 +1,15 @@
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-Posições\Matriz-Posições\bin\Debug\net8.0\Matriz-Posições.exe
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-Posições\Matriz-Posições\bin\Debug\net8.0\Matriz-Posições.deps.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-Posições\Matriz-Posições\bin\Debug\net8.0\Matriz-Posições.runtimeconfig.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-Posições\Matriz-Posições\bin\Debug\net8.0\Matriz-Posições.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-Posições\Matriz-Posições\bin\Debug\net8.0\Matriz-Posições.pdb
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-Posições\Matriz-Posições\obj\Debug\net8.0\Matriz-Posições.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-Posições\Matriz-Posições\obj\Debug\net8.0\Matriz-Posições.AssemblyInfoInputs.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-Posições\Matriz-Posições\obj\Debug\net8.0\Matriz-Posições.AssemblyInfo.cs
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-Posições\Matriz-Posições\obj\Debug\net8.0\Matriz-Posições.csproj.CoreCompileInputs.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-Posições\Matriz-Posições\obj\Debug\net8.0\Matriz-Posições.sourcelink.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-Posições\Matriz-Posições\obj\Debug\net8.0\Matriz-Posições.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-Posições\Matriz-Posições\obj\Debug\net8.0\refint\Matriz-Posições.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-Posições\Matriz-Posições\obj\Debug\net8.0\Matriz-Posições.pdb
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-Posições\Matriz-Posições\obj\Debug\net8.0\Matriz-Posições.genruntimeconfig.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Matriz-Posições\Matriz-Posições\obj\Debug\net8.0\ref\Matriz-Posições.dll
