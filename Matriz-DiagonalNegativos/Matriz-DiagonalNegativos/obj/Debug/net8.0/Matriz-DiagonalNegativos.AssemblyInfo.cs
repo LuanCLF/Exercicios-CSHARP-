@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Matriz-DiagonalNegativos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+176c20cb8c8825c5f8cf6a3d1a5c867f4467da03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27dcf69ae46f9bbdb7daa6279263b9f3cf49d567")]
 [assembly: System.Reflection.AssemblyProductAttribute("Matriz-DiagonalNegativos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Matriz-DiagonalNegativos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

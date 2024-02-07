@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CotacaoDoDolar-MembrosEstaticos",
+    "\\CotacaoDoDolar-MembrosEstaticos\\domain"
   ],
-  "SelectedNode": "\\CotacaoDoDolar-MembrosEstaticos.sln",
+  "SelectedNode": "\\CotacaoDoDolar-MembrosEstaticos\\Program.cs",
   "PreviewInSolutionExplorer": true
 }
