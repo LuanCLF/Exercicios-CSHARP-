@@ -1,7 +1,7 @@
 ﻿
 namespace Enum_Entities_Pedidos.entities.@enum
 {
-    enum OrderStatus
+  public  enum OrderStatus
     {
         PendingPayment,
         Processi,

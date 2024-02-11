@@ -5,28 +5,19 @@ using Enum_Entities_Pedidos.entities.@enum;
 
 namespace Enum_Entities_Pedidos.Entities
 {
-    public class Order
+    public class Order(OrderStatus status, DateTime moment, Client client)
     {
-       private OrderStatus _status { get; }
-      public DateTime Moment {  get; private set; }
+        private OrderStatus _status { get; } = status;
+        public DateTime Moment { get; private set; } = moment;
 
         public List<OrderItem> Items { get; private set; } = new List<OrderItem>();
 
-        public Client Client { get; private set; }
+        public Client Client { get; private set; } = client;
 
-        public Order( DateTime moment, Client client)
-        {
-            _status = OrderStatus.PendingPayment;
-            Moment = moment;
-            Client = client;
-        }
+        public void AddItem(OrderItem item) => Items.Add(item);
+       
 
-        public void AddItem(OrderItem item)
-        {
-            Items.Add(item);
-        }
-
-        public void RemoveItem(OrderItem item) {  Items.Remove(item); }
+        public void RemoveItem(OrderItem item) => Items.Remove(item); 
 
         public double Total() {
             double sum = 0;
