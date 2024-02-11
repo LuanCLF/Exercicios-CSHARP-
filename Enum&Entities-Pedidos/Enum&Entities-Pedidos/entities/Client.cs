@@ -6,9 +6,9 @@ namespace Enum_Entities_Pedidos.entities
     {
         public string Name { get; private set; }
         public string Email { get; private set; }
-        public string BirthDate { get; private set; }
+        public DateTime BirthDate { get; private set; }
 
-        public Client(string name, string email, string birthDate)
+        public Client(string name, string email, DateTime birthDate)
         {
             Name = name;
             Email = email;
