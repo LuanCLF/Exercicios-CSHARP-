@@ -2,7 +2,7 @@
 
 namespace Enum_Entities_Pedidos.Entities
 {
-    public class Product
+    internal class Product
     {
         public string Name { get; private set; }
         public double Price { get; private set; }
