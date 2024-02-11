@@ -1,0 +1,15 @@
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Enum&Entities-Pedidos\Enum&Entities-Pedidos\bin\Debug\net8.0\Enum&Entities-Pedidos.exe
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Enum&Entities-Pedidos\Enum&Entities-Pedidos\bin\Debug\net8.0\Enum&Entities-Pedidos.deps.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Enum&Entities-Pedidos\Enum&Entities-Pedidos\bin\Debug\net8.0\Enum&Entities-Pedidos.runtimeconfig.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Enum&Entities-Pedidos\Enum&Entities-Pedidos\bin\Debug\net8.0\Enum&Entities-Pedidos.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Enum&Entities-Pedidos\Enum&Entities-Pedidos\bin\Debug\net8.0\Enum&Entities-Pedidos.pdb
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Enum&Entities-Pedidos\Enum&Entities-Pedidos\obj\Debug\net8.0\Enum&Entities-Pedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Enum&Entities-Pedidos\Enum&Entities-Pedidos\obj\Debug\net8.0\Enum&Entities-Pedidos.AssemblyInfoInputs.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Enum&Entities-Pedidos\Enum&Entities-Pedidos\obj\Debug\net8.0\Enum&Entities-Pedidos.AssemblyInfo.cs
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Enum&Entities-Pedidos\Enum&Entities-Pedidos\obj\Debug\net8.0\Enum&Entities-Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Enum&Entities-Pedidos\Enum&Entities-Pedidos\obj\Debug\net8.0\Enum&Entities-Pedidos.sourcelink.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Enum&Entities-Pedidos\Enum&Entities-Pedidos\obj\Debug\net8.0\Enum&Entities-Pedidos.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Enum&Entities-Pedidos\Enum&Entities-Pedidos\obj\Debug\net8.0\refint\Enum&Entities-Pedidos.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Enum&Entities-Pedidos\Enum&Entities-Pedidos\obj\Debug\net8.0\Enum&Entities-Pedidos.pdb
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Enum&Entities-Pedidos\Enum&Entities-Pedidos\obj\Debug\net8.0\Enum&Entities-Pedidos.genruntimeconfig.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\Enum&Entities-Pedidos\Enum&Entities-Pedidos\obj\Debug\net8.0\ref\Enum&Entities-Pedidos.dll
