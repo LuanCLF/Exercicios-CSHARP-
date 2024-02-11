@@ -2,7 +2,7 @@
 
 namespace Enum_Entities_Pedidos.Entities
 {
-    internal class OrderItem
+    public class OrderItem
     {
         public int Quantity { get; private set; }
         public double Price { get; private set; }
