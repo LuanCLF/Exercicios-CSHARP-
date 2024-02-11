@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Enum&Entities-Pedidos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bd7bfdd065edca4a694e95b7ed28d94bd02a443")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e566c0971f682a924ddede12527c77b7d1c97d78")]
 [assembly: System.Reflection.AssemblyProductAttribute("Enum&Entities-Pedidos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Enum&Entities-Pedidos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
