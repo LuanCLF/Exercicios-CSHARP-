@@ -1,6 +1,7 @@
 ﻿
 using Enum_Entities_Pedidos.entities;
 using Enum_Entities_Pedidos.entities.@enum;
+using System.Text;
 
 
 namespace Enum_Entities_Pedidos.Entities
@@ -30,5 +31,30 @@ namespace Enum_Entities_Pedidos.Entities
             return sum;
 
         }
+
+        public override string ToString()
+        {
+            double total = 0.0;
+
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("ORDER SUMMARY: ");
+            sb.AppendLine($"Order moment: {Moment.ToString("dd/MM/yyyy HH:mm:ss")}");
+            sb.AppendLine($"Order Status: {_status}");
+            sb.AppendLine($"Client: {Client.Name} ({Client.BirthDate.ToString("dd/MM/yyyy")}) - {Client.Email}");
+            sb.AppendLine("Order items: ");
+            foreach(OrderItem item in Items)
+            {
+                double subTotal = item.SubTotal();
+                total+= subTotal;
+
+                sb.AppendLine($"{item.Product.Name}, ${item.Price:F2}, Quantity: {item.Quantity}, Subtotal: ${subTotal:F2}");
+            }
+
+            sb.AppendLine($"Total price: ${total:F2}");
+
+            return sb.ToString();
+        
+        }
+
     }
 }
