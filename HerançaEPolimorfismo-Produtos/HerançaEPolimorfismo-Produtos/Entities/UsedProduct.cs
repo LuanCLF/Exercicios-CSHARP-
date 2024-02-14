@@ -1,7 +1,7 @@
 ﻿
 namespace HerançaEPolimorfismo_Produtos.Entities
 {
-    internal class UsedProduct : Product
+    public class UsedProduct : Product
     {
         public DateTime ManufactureDate { get; private set; }
 
