@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CotacaoDoDolar-MembrosEstaticos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b10d6988f0c01b2b0b5da2ee583fdef14fa73d95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17a85ca871eee7d8f52aac58b19d4cac17431dcb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CotacaoDoDolar-MembrosEstaticos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CotacaoDoDolar-MembrosEstaticos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

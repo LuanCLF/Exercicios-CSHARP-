@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Listas-InserirEditar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27dcf69ae46f9bbdb7daa6279263b9f3cf49d567")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17a85ca871eee7d8f52aac58b19d4cac17431dcb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Listas-InserirEditar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Listas-InserirEditar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

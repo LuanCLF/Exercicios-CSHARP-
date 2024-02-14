@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Banco-AutoProperties&Encapsulamento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bc67a5411b5d61c2b1cd2ae203895a9bed5c7fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17a85ca871eee7d8f52aac58b19d4cac17431dcb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Banco-AutoProperties&Encapsulamento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Banco-AutoProperties&Encapsulamento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
