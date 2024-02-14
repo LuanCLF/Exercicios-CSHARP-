@@ -21,7 +21,7 @@ namespace HerançaEPolimorfismo_Produtos.Entities
             return $"{Name} R${TotalPrice():F2} (Customs fee: R${CustomsFee:F2})";
         }
 
-        
+
 
     }
 }

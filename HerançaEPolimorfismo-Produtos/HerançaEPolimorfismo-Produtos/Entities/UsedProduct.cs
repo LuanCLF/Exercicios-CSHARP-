@@ -5,7 +5,7 @@ namespace HerançaEPolimorfismo_Produtos.Entities
     {
         public DateTime ManufactureDate { get; private set; }
 
-        public UsedProduct(string name, double price,DateTime manufactureDate) : base(name, price)
+        public UsedProduct(string name, double price, DateTime manufactureDate) : base(name, price)
 
         {
             ManufactureDate = manufactureDate;

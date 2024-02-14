@@ -1,0 +1,15 @@
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\HerançaEPolimorfismo-Produtos\HerançaEPolimorfismo-Produtos\bin\Debug\net8.0\HerançaEPolimorfismo-Produtos.exe
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\HerançaEPolimorfismo-Produtos\HerançaEPolimorfismo-Produtos\bin\Debug\net8.0\HerançaEPolimorfismo-Produtos.deps.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\HerançaEPolimorfismo-Produtos\HerançaEPolimorfismo-Produtos\bin\Debug\net8.0\HerançaEPolimorfismo-Produtos.runtimeconfig.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\HerançaEPolimorfismo-Produtos\HerançaEPolimorfismo-Produtos\bin\Debug\net8.0\HerançaEPolimorfismo-Produtos.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\HerançaEPolimorfismo-Produtos\HerançaEPolimorfismo-Produtos\bin\Debug\net8.0\HerançaEPolimorfismo-Produtos.pdb
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\HerançaEPolimorfismo-Produtos\HerançaEPolimorfismo-Produtos\obj\Debug\net8.0\HerançaEPolimorfismo-Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\HerançaEPolimorfismo-Produtos\HerançaEPolimorfismo-Produtos\obj\Debug\net8.0\HerançaEPolimorfismo-Produtos.AssemblyInfoInputs.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\HerançaEPolimorfismo-Produtos\HerançaEPolimorfismo-Produtos\obj\Debug\net8.0\HerançaEPolimorfismo-Produtos.AssemblyInfo.cs
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\HerançaEPolimorfismo-Produtos\HerançaEPolimorfismo-Produtos\obj\Debug\net8.0\HerançaEPolimorfismo-Produtos.csproj.CoreCompileInputs.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\HerançaEPolimorfismo-Produtos\HerançaEPolimorfismo-Produtos\obj\Debug\net8.0\HerançaEPolimorfismo-Produtos.sourcelink.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\HerançaEPolimorfismo-Produtos\HerançaEPolimorfismo-Produtos\obj\Debug\net8.0\HerançaEPolimorfismo-Produtos.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\HerançaEPolimorfismo-Produtos\HerançaEPolimorfismo-Produtos\obj\Debug\net8.0\refint\HerançaEPolimorfismo-Produtos.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\HerançaEPolimorfismo-Produtos\HerançaEPolimorfismo-Produtos\obj\Debug\net8.0\HerançaEPolimorfismo-Produtos.pdb
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\HerançaEPolimorfismo-Produtos\HerançaEPolimorfismo-Produtos\obj\Debug\net8.0\HerançaEPolimorfismo-Produtos.genruntimeconfig.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\HerançaEPolimorfismo-Produtos\HerançaEPolimorfismo-Produtos\obj\Debug\net8.0\ref\HerançaEPolimorfismo-Produtos.dll

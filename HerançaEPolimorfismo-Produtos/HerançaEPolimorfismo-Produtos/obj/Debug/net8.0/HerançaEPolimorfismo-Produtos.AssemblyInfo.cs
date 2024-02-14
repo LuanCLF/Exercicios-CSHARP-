@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HerançaEPolimorfismo-Produtos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0be98f5fc5808a500ac2e4022b9d5bc787217145")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+642bc98f0bff648f79a204bbfda3d889c0823872")]
 [assembly: System.Reflection.AssemblyProductAttribute("HerançaEPolimorfismo-Produtos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HerançaEPolimorfismo-Produtos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
