@@ -1,0 +1,15 @@
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\ClassesEMetodosAbstratos-Imposto\ClassesEMetodosAbstratos-Imposto\bin\Debug\net8.0\ClassesEMetodosAbstratos-Imposto.exe
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\ClassesEMetodosAbstratos-Imposto\ClassesEMetodosAbstratos-Imposto\bin\Debug\net8.0\ClassesEMetodosAbstratos-Imposto.deps.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\ClassesEMetodosAbstratos-Imposto\ClassesEMetodosAbstratos-Imposto\bin\Debug\net8.0\ClassesEMetodosAbstratos-Imposto.runtimeconfig.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\ClassesEMetodosAbstratos-Imposto\ClassesEMetodosAbstratos-Imposto\bin\Debug\net8.0\ClassesEMetodosAbstratos-Imposto.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\ClassesEMetodosAbstratos-Imposto\ClassesEMetodosAbstratos-Imposto\bin\Debug\net8.0\ClassesEMetodosAbstratos-Imposto.pdb
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\ClassesEMetodosAbstratos-Imposto\ClassesEMetodosAbstratos-Imposto\obj\Debug\net8.0\ClassesEMetodosAbstratos-Imposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\ClassesEMetodosAbstratos-Imposto\ClassesEMetodosAbstratos-Imposto\obj\Debug\net8.0\ClassesEMetodosAbstratos-Imposto.AssemblyInfoInputs.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\ClassesEMetodosAbstratos-Imposto\ClassesEMetodosAbstratos-Imposto\obj\Debug\net8.0\ClassesEMetodosAbstratos-Imposto.AssemblyInfo.cs
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\ClassesEMetodosAbstratos-Imposto\ClassesEMetodosAbstratos-Imposto\obj\Debug\net8.0\ClassesEMetodosAbstratos-Imposto.csproj.CoreCompileInputs.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\ClassesEMetodosAbstratos-Imposto\ClassesEMetodosAbstratos-Imposto\obj\Debug\net8.0\ClassesEMetodosAbstratos-Imposto.sourcelink.json
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\ClassesEMetodosAbstratos-Imposto\ClassesEMetodosAbstratos-Imposto\obj\Debug\net8.0\ClassesEMetodosAbstratos-Imposto.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\ClassesEMetodosAbstratos-Imposto\ClassesEMetodosAbstratos-Imposto\obj\Debug\net8.0\refint\ClassesEMetodosAbstratos-Imposto.dll
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\ClassesEMetodosAbstratos-Imposto\ClassesEMetodosAbstratos-Imposto\obj\Debug\net8.0\ClassesEMetodosAbstratos-Imposto.pdb
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\ClassesEMetodosAbstratos-Imposto\ClassesEMetodosAbstratos-Imposto\obj\Debug\net8.0\ClassesEMetodosAbstratos-Imposto.genruntimeconfig.cache
+C:\Users\luanf\OneDrive\Documentos\codigos\Exercicios-CSHARP\ClassesEMetodosAbstratos-Imposto\ClassesEMetodosAbstratos-Imposto\obj\Debug\net8.0\ref\ClassesEMetodosAbstratos-Imposto.dll

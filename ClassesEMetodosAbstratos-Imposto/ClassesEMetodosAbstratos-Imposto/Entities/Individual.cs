@@ -4,7 +4,7 @@
     {
         public double HealthExpenditures { get; private set; }
 
-        public Individual(double healthExpenditures, string name, double anualIncome): base(name, anualIncome)
+        public Individual(string name, double anualIncome, double healthExpenditures): base(name, anualIncome)
         {
             HealthExpenditures = healthExpenditures;
         }

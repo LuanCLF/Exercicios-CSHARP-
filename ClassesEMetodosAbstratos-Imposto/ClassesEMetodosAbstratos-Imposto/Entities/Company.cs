@@ -4,7 +4,7 @@
     {
         public int NumberOfEmployees { get; private set; }
 
-        public Company(int numberOfEmployees, string name, double anualIncome) : base(name, anualIncome)
+        public Company(string name, double anualIncome, int numberOfEmployees) : base(name, anualIncome)
         {
             NumberOfEmployees = numberOfEmployees;
         }
