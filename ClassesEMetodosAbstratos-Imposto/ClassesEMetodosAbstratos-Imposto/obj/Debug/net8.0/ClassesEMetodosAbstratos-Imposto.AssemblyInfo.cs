@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClassesEMetodosAbstratos-Imposto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc49f4efe7a4084237f34083bbb735b4ef82f99d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db3d62fefa55f8445ab7f667401295214a822b15")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClassesEMetodosAbstratos-Imposto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClassesEMetodosAbstratos-Imposto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
