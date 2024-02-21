@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TratamentoDeExcecoes-Banco/1.0.0": {
+        "runtime": {
+          "TratamentoDeExcecoes-Banco.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TratamentoDeExcecoes-Banco/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
