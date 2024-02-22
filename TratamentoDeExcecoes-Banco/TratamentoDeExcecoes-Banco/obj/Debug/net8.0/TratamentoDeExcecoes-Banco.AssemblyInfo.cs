@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TratamentoDeExcecoes-Banco")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53da4954e002a2cdf153b4d164e4a2fed0ed5135")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6aabd8fa7accd8fb3d7354275a7cf447f14e08d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TratamentoDeExcecoes-Banco")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TratamentoDeExcecoes-Banco")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
