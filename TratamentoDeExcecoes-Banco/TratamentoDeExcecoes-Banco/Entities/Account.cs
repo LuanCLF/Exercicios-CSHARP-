@@ -1,6 +1,6 @@
 ﻿using TratamentoDeExcecoes_Banco.Entities.Exception;
 
-exp
+
 
 namespace TratamentoDeExcecoes_Banco.Entities
 {
@@ -33,7 +33,7 @@ namespace TratamentoDeExcecoes_Banco.Entities
 
             if (withdraw <= 0) throw new DomainExpeption("Withdrawerror: The value must be greater than 0");
 
-            if (withdraw < Balance) throw new DomainExpeption("Withdrawerror: There is not enough balance in the account");
+            if (withdraw > Balance) throw new DomainExpeption("Withdrawerror: There is not enough balance in the account");
 
             if (withdraw > WithdrawLimit) throw new DomainExpeption("Withdrawerror: The withdrawal amount is higher than the allowed limit");
         
